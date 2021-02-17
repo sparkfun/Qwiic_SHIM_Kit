@@ -15,9 +15,9 @@ Documentation
 --------------
 * **Python Modules (i.e. Libraries)** - Python library for the Qwiic Kit for Raspberry Pi.
    * **[Qwiic_I2C_Py](https://github.com/sparkfun/Qwiic_I2C_Py)**
+   * **[Qwiic_Py](https://github.com/sparkfun/Qwiic_Py)**
    * **[9DoF ICM-20948](https://github.com/sparkfun/Qwiic_9DoF_IMU_ICM20948_Py)**
    * **[SerLCD](https://github.com/sparkfun/Qwiic_SerLCD_Py)**
-   * **[Qwiic_Py](https://github.com/sparkfun/Qwiic_Py)**
 * **[Hookup Guide](https://learn.sparkfun.com/tutorials/qwiic-shim-kit-hookup-guide-for-raspberry-pi)** - Basic hookup guide for the Qwiic SHIM Kit
   
 
